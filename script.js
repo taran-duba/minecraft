@@ -101,6 +101,10 @@ function my_keydown(e) {
         new_image('cloud.jpg');
         console.log("c");
     }
+    if (keyPressed == '18' && '67) {
+    	new_image('white.jpg');
+	console.log("alt + c");
+    }
 }
 // Day 3
 function up()
